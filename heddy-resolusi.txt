@@ -2,5 +2,5 @@ Heddy Resolusi :
 - Mengerti pembuatan algoritma
 - Memahami alur proses dari pembuatan algoritma
 - Menjadi seorang yang berkarir di bidang teknologi
-- Membuat sebuah program terutama website
 - Memahami salah satu framework Laravel atau CI
+- Memiliki rutinitas yang baik
