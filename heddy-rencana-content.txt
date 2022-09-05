@@ -1,0 +1,7 @@
+Heddy Konten :
+- PHP
+  * PHP OOP
+  * PHP MVC
+  * PHP Framework CI / Laravel
+- Javascript
+- HTML & CSS
