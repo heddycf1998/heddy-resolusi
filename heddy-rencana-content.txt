@@ -8,5 +8,6 @@ Heddy Konten :
 - Javascript
   * Javascript Framework :
   ^ Vue
+  ^ React
 - HTML & CSS
 - MySQL
