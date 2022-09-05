@@ -5,3 +5,4 @@ Heddy Konten :
   * PHP Framework CI / Laravel
 - Javascript
 - HTML & CSS
+- MySQL
