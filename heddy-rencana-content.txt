@@ -1,4 +1,7 @@
 Heddy Konten :
 - PHP
-- PHP MVC
-- PHP Framework CI atau Laravel
+  * PHP OOP
+  * PHP MVC
+  * PHP Framework CI / Laravel
+- Javascript
+- HTML & CSS
