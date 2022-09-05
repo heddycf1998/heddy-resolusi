@@ -2,11 +2,13 @@ Heddy Konten :
 - PHP
   * PHP OOP
   * PHP MVC
-  * PHP Framework 
+  * PHP Framework :
   ^ Laravel
+  ^ CI
 - Javascript
-  * Javascript Framework
-  ^ Angular
+  * Javascript Framework :
+  ^ Vue
   ^ React
+  ^ Angular
 - HTML & CSS
 - MySQL
